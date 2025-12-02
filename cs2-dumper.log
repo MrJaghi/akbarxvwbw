@@ -1,0 +1,85 @@
+[<] Loading vulnerable driver, Name: IOlRGSEowScpVQJgHJ
+[+] NtLoadDriver Status 0x0
+[+] PiDDBLock Ptr 0xfffff80420339edc
+[+] PiDDBCacheTable Ptr 0xfffff8042033a018
+[+] PiDDBLock Locked
+[+] Found Table Entry = 0xFFFFA08128815E90
+[+] PiDDBCacheTable Cleaned
+[+] g_KernelHashBucketList Found 0xFFFFF80421CF2090
+[+] g_HashCacheLock Locked
+[+] Found In g_KernelHashBucketList: IOlRGSEowScpVQJgHJ
+[+] g_KernelHashBucketList Cleaned
+[+] MmUnloadedDrivers Cleaned: IOlRGSEowScpVQJgHJ
+[+] WdFilterDriverList Cleaned: \Users\DELUXE~1\AppData\Local\Temp\IOlRGSEowScpVQJgHJ
+[+] Image base has been allocated at 0xFFFF8A813D9A3000
+[+] Skipped 0x1000 bytes of PE Header
+[+] Fixing stack cookie
+[+] Setting protection for section: .text Base: 0xffff8a813d9a3000 Size: 0x1766 Prot: EXECUTE_READ
+[+] Setting protection for section: .rdata Base: 0xffff8a813d9a5000 Size: 0x6d0 Prot: READONLY
+[+] Setting protection for section: .data Base: 0xffff8a813d9a6000 Size: 0xf0 Prot: READWRITE
+[+] Setting protection for section: .pdata Base: 0xffff8a813d9a7000 Size: 0x114 Prot: READONLY
+[+] Setting protection for section: INIT Base: 0xffff8a813d9a8000 Size: 0x2ce Prot: EXECUTE_READ
+[+] Setting protection for section: .reloc Base: 0xffff8a813d9a9000 Size: 0x24 Prot: READONLY
+[<] Calling DriverEntry 0xFFFF8A813D9A3120
+[+] DriverEntry returned 0x0
+[<] Unloading vulnerable driver
+[+] NtUnloadDriver Status 0x0
+[+] Vul driver data destroyed before unlink
+[+] Driver mapped successfully!
+[+] waiting for game...
+[DEBUG] sizeof(_soardrv_cr3) = 24 bytes
+[DEBUG] ProcessID = 10324
+[DEBUG] ModuleAddress = 0x7FF682F00000
+[DEBUG] DeviceIoControl result: 0, CR3: 0x0, Bytes: 16
+[process_manager] Failed to get CR3 from driver. Error: 1168
+[-] Attach failed with error: 3
+[-] Failed to get module base. Driver communication error.
+[DEBUG] sizeof(_soardrv_cr3) = 24 bytes
+[DEBUG] ProcessID = 10324
+[DEBUG] ModuleAddress = 0x7FF682F00000
+[DEBUG] DeviceIoControl result: 0, CR3: 0x0, Bytes: 16
+[process_manager] Failed to get CR3 from driver. Error: 1168
+[-] Attach failed with error: 3
+[-] Failed to get module base. Driver communication error.
+[DEBUG] sizeof(_soardrv_cr3) = 24 bytes
+[DEBUG] ProcessID = 10324
+[DEBUG] ModuleAddress = 0x7FF682F00000
+[DEBUG] DeviceIoControl result: 0, CR3: 0x0, Bytes: 16
+[process_manager] Failed to get CR3 from driver. Error: 1168
+[-] Attach failed with error: 3
+[-] Failed to get module base. Driver communication error.
+[DEBUG] sizeof(_soardrv_cr3) = 24 bytes
+[DEBUG] ProcessID = 10324
+[DEBUG] ModuleAddress = 0x7FF682F00000
+[DEBUG] DeviceIoControl result: 0, CR3: 0x0, Bytes: 16
+[process_manager] Failed to get CR3 from driver. Error: 1168
+[-] Attach failed with error: 3
+[-] Failed to get module base. Driver communication error.
+[DEBUG] sizeof(_soardrv_cr3) = 24 bytes
+[DEBUG] ProcessID = 10324
+[DEBUG] ModuleAddress = 0x7FF682F00000
+[DEBUG] DeviceIoControl result: 0, CR3: 0x0, Bytes: 16
+[process_manager] Failed to get CR3 from driver. Error: 1168
+[-] Attach failed with error: 3
+[-] Failed to get module base. Driver communication error.
+[DEBUG] sizeof(_soardrv_cr3) = 24 bytes
+[DEBUG] ProcessID = 10324
+[DEBUG] ModuleAddress = 0x7FF682F00000
+[DEBUG] DeviceIoControl result: 0, CR3: 0x0, Bytes: 16
+[process_manager] Failed to get CR3 from driver. Error: 1168
+[-] Attach failed with error: 3
+[-] Failed to get module base. Driver communication error.
+[DEBUG] sizeof(_soardrv_cr3) = 24 bytes
+[DEBUG] ProcessID = 10324
+[DEBUG] ModuleAddress = 0x7FF682F00000
+[DEBUG] DeviceIoControl result: 0, CR3: 0x0, Bytes: 16
+[process_manager] Failed to get CR3 from driver. Error: 1168
+[-] Attach failed with error: 3
+[-] Failed to get module base. Driver communication error.
+[DEBUG] sizeof(_soardrv_cr3) = 24 bytes
+[DEBUG] ProcessID = 10324
+[DEBUG] ModuleAddress = 0x7FF682F00000
+[DEBUG] DeviceIoControl result: 0, CR3: 0x0, Bytes: 16
+[process_manager] Failed to get CR3 from driver. Error: 1168
+[-] Attach failed with error: 3
+[-] Failed to get module base. Driver communication error.

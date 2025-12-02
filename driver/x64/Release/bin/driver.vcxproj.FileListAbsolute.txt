@@ -1,0 +1,2 @@
+G:\ruskid2\driver\x64\Release\driver.sys.lastcodeanalysissucceeded
+G:\ruskid2\driver\x64\Release\bin\NativeCodeAnalysis.read.1.tlog
